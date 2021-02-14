@@ -44,7 +44,7 @@ public class MainClass {
 	        }
 		CSVWriter csvWriter = new CSVWriter();
 		try {
-			csvWriter.writeToCsvFile(csvOutputList, new File("D:\\My_Workspaces\\Archimydes\\ABN_AMRO_Test\\src\\main\\resources\\csvOutput.txt"));
+			csvWriter.writeToCsvFile(csvOutputList, new File("D:\\My_Workspaces\\Archimydes\\ABN_AMRO_Test\\src\\main\\resources\\Output.csv"));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

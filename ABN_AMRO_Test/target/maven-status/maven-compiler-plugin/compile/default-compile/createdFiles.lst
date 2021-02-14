@@ -1,0 +1,4 @@
+processor\FixedWidthReader.class
+processor\MyRecord.class
+processor\MainClass.class
+processor\CSVWriter.class
